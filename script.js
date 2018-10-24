@@ -8,7 +8,7 @@
 
     $.ajax( {
 
-        url: "clients.json",
+        url: "data/sampleData.json",
         type: "GET",
         contentType: "application/json; charset=utf-8",
         async: true,
