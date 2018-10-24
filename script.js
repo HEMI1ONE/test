@@ -1,4 +1,4 @@
- var container = document.getElementById( "globalArea" );
+var container = document.getElementById( "globalArea" );
 
     // create controller for the IO globe, input the container as the parameter
 
