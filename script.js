@@ -8,7 +8,7 @@ var container = document.getElementById( "globalArea" );
 
     $.ajax( {
 
-        url: "data/sampleData.json",
+        url: "clients.json",
         type: "GET",
         contentType: "application/json; charset=utf-8",
         async: true,
